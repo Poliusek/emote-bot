@@ -68,6 +68,7 @@ client.on("messageReactionAdd", (reaction, user) => {
                     reaction.message.react(reaction.emoji) 
                 }
             }
+            tets
         }
     }
 
