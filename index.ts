@@ -29,6 +29,7 @@ client.on('messageCreate', (message) => {
             message.react('✅')
             message.react('❌')
             message.react('⏰')  
+            XD
         }  
     }
 })
