@@ -29,6 +29,7 @@ client.on('messageCreate', (message) => {
             message.react('✅')
             message.react('❌')
             message.react('⏰')  
+            XD
         }  
     }
 })
@@ -67,6 +68,7 @@ client.on("messageReactionAdd", (reaction, user) => {
                     reaction.message.react(reaction.emoji) 
                 }
             }
+            tets
         }
     }
 
